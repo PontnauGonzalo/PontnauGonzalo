@@ -27,17 +27,42 @@ I'm a passionate student of Information Systems Engineering at the National Tech
   - Understand the difference between EAGER and LAZY relationships.
 
 ## Technologies & Skills 💻
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" height="40" alt="prolog logo"  />
+  <img width="12" />
+</div>
+
+###
 - Java ☕
-- SQL/MySQL
-- Spring Boot
+- Spring framework/Spring Boot
 - Hibernate
 - JPA
-- Oracle Cloud Infrastructure (OCI)
-- Basic Frontend
+- SQL/MySQL
 - C/C++
+- Oracle Cloud Infrastructure (OCI)
+- html/css
 - Haskell
-  
+- Prolog
+- Wollok
+
 ## Tools 
 
 - :octocat: GitHub / 🦊 GitLab
@@ -51,4 +76,3 @@ I'm a passionate student of Information Systems Engineering at the National Tech
 Connect with me to discuss collaborations and professional opportunities! 🤝
 - Email: gonzalopontnau@gmail.com
 - LinkedIn: [Gonzalo Martín Pontnau](https://www.linkedin.com/in/gonzalopontnau/)
-
