@@ -1,6 +1,6 @@
 # Gonzalo Martín Pontnau 👨‍💻
 
-I'm a passionate student of Information Systems Engineering at the National Technological University (UTN) 🎓. I specialize in Backend development, with a notable focus on Java ☕. My main goal is to combine my strong academic background with technical skills to make a significant contribution to the field of information technology.
+I focus particularly on Go, with experience in creating systems using its advanced features, integrating microservices with Spring Cloud, and designing RESTful APIs with Gin Gonic and JWT. I also have skills in Java, SQL databases (MySQL), and C# thanks to my university studies. I feel comfortable leading teams, but I also stand out on teams with more experienced colleagues.
 
 ## Currently 🚀
 
@@ -30,6 +30,8 @@ I'm a passionate student of Information Systems Engineering at the National Tech
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="goland logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -49,16 +51,13 @@ I'm a passionate student of Information Systems Engineering at the National Tech
 </div>
 
 ###
-- Java ☕
+- Go
+- Java
 - Spring framework/Spring Boot
 - Hibernate
-- JPA
-- SQL/MySQL
+- MySQL MongoDB
 - C/C++
 - html/css
-- Haskell
-- Prolog
-- Wollok
 
 ## Tools 
 
