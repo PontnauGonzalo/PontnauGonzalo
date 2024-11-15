@@ -70,5 +70,7 @@ I focus particularly on Go, with experience in creating systems using its advanc
 ## Contact 📫
 
 Connect with me to discuss collaborations and professional opportunities! 🤝
-- Email: gonzalopontnau@gmail.com
-- LinkedIn: [Gonzalo Martín Pontnau](https://www.linkedin.com/in/gonzalopontnau/)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo"/> [Gonzalo Martín Pontnau](https://www.linkedin.com/in/gonzalopontnau/)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="20" alt="linkedin logo"/> gonzalopontnau@gmail.com
