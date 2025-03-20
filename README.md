@@ -6,11 +6,13 @@
 
 - 📫 How to reach me **gonzalopontnau@gmail.com**
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo"/> [Gonzalo Martín Pontnau](https://www.linkedin.com/in/gonzalopontnau/)
+- 💻 [Portfolio](https://gonzalopontnau.github.io/)
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo"/> [Linkedin](https://www.linkedin.com/in/gonzalopontnau/)
 
 - 📚 University projects at [gpontnau](https://github.com/gpontnau)
 
-## Languages and Tools 💻
+## Languages and Tools
 
 <p align="left"> 
   <a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
